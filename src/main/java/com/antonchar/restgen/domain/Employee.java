@@ -1,4 +1,4 @@
-package com.antonchar.restgen;
+package com.antonchar.restgen.domain;
 
 import java.util.Random;
 
